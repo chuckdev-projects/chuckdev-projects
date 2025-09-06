@@ -6,7 +6,7 @@ Systems Integrator supporting DoD/IC programs. Retired USN and MSP.
 **Focus:** capability lifecycle • cross-functional leadership • field deployment • ISR/sensors • secure comms • Linux
 
 - 📍 Maryland, USA
-- 🎯 Target roles: Capability Lead (Air Defense), Deployment Lead, Mission Ops, Mission Software Integration
+- Target roles: Capability Lead (Air Defense), Deployment Lead, Mission Ops, Mission Software Integration
 
 ## Featured Projects
 - **EOIR-Simulator-RPi** — Python PTZ EO/IR simulator (MX-15-style menus) on Raspberry Pi → hardware/software integration, real-time control  
